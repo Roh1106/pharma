@@ -1,0 +1,6 @@
+{
+  "name": "AMR Shield - Antibiotic & Resistance Decision Guide",
+  "description": "Comprehensive Antimicrobial Resistance (AMR) clinical explorer: lookup antibiotics, resistance genes, pathogens, surveillance metrics, and evidence-based alternative antibiotics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
